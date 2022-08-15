@@ -44,4 +44,5 @@ potência da sua Air Fryer.
 e use a sua cobertura de chocolate favorita
 
 
+![055caa6d-7528-44bc-ac32-3add84bdc0b0](https://user-images.githubusercontent.com/106343611/184683437-8ccb1957-a0e9-457a-961f-a4ebaa43a5e4.jpg)
 
