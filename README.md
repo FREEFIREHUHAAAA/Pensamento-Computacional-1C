@@ -3,7 +3,7 @@
 ## ALISSON R. DOS SANTOS N:1
 ## Edison Luna de Souza N:39
 
-Receitas Edimar
+# Receitas Edimar
 
  Esse site criado por mim,Edison e pelo meu conpanheiro de sala Alisson para postar receitas,para alegrar a vida de quem as faça.
 Nossa ideia veio de que eu achei certo fazer um site sobre algo ultiu,nossa primeira opção era um site de jogos mas como não era permitido fizemos um de alguma coisa que nois dois concordamos criar.
