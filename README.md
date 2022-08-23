@@ -3,46 +3,12 @@
 ## ALISSON R. DOS SANTOS N:1
 ## Edison Luna de Souza N:39
 
-bolo de cenoura com cobertura de chocolate
+Receitas Edimar
 
-Ingredientes
-
-1 xícara de cenoura lavada, descascada e cortada em cubinhos
-
-2 ovos
-
-½ xícara de açúcar
-
-2 colheres de sopa de manteiga
-
-1 xícara de farinha de trigo
-
-1 colher de chá de fermento em pó
-
-1/3 xícara de calda de chocolate
-
-Modo de preparo
-
-1 Coloque no LIQUIDIFICADOR MONDIAL a cenoura, os ovos e a manteiga e bata por cerca de 5 minutos, até ter uma massa homogênea.
-
-2 Transfira essa massa para uma tigela e vá adicionando aos poucos a farinha, depois o fermento.
-
-3 Misture tudo até a massa ficar bem lisa.
-
-4 Use uma forma que caiba na sua AIR FRYER MONDIAL.
-
-5 Unte a forma com manteiga e polvilhe farinha de trigo.
-
-6 Aqueça sua Air Fryer em 160º por 15 minutos.
-
-7 Coloque a massa na forma e coloque na AIR FRYER MONDIAL
-
-8 Aumente para 200º e deixe por mais 10 a 15 minutos, dependendo da
-potência da sua Air Fryer.
-
-9 Retire, desenforme
-e use a sua cobertura de chocolate favorita
-
-
-![055caa6d-7528-44bc-ac32-3add84bdc0b0](https://user-images.githubusercontent.com/106343611/184683437-8ccb1957-a0e9-457a-961f-a4ebaa43a5e4.jpg)
-
+ Esse site criado por mim,Edison e pelo meu conpanheiro de sala Alisson para postar receitas,para alegrar a vida de quem as faça.
+Nossa ideia veio de que eu achei certo fazer um site sobre algo ultiu,nossa primeira opção era um site de jogos mas como não era permitido fizemos um de alguma coisa que nois dois concordamos criar.
+ O site tera varias receitas de nossa escolha, de salgados e doces.As receitas serão tiradas da internet ou alguma a qual sabemos.Colocaremos varias receitas diferentes em nossa pagina,as quais esperamos que os visitantes gostem.
+  Qual quer receita colocada no site sera facil,não colocaremos receitas que sejam caras ou de dificil acesso.
+  
+  
+  ![receitas-de-salgados-para-festa](https://user-images.githubusercontent.com/106343611/186255469-022f26aa-4f10-4cd6-b763-de896c91aec1.jpg)
